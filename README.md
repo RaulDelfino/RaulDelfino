@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou cursando Ciencia da computação!
 
-- 👯 tecnologias : HTML, CSS, Javascript, nodeJs, bootstrap, Firebase, Jquery, SQLite.
+- 👯 tecnologias : HTML, CSS, Javascript, nodeJs, bootstrap, Firebase, Jquery, SQLite, git.
 
-- 🌱 Estou aprendendo git e github!
+- 🌱 Estou aprendendo ReactJS!
 
 - 👯 Estou a procura do meu primeiro emprego como dev!
 
