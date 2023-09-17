@@ -8,14 +8,20 @@ Breve descrição sobre você.
 
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Flutter](https://skillicons.dev/icons?i=flutter&perline=3)
+![java](https://skillicons.dev/icons?i=java&perline=3)
+![JavaScript](https://skillicons.dev/icons?i=js&perline=3)
+![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)
+![mysql](https://skillicons.dev/icons?i=mysql&perline=3)
+![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)
+![python](https://skillicons.dev/icons?i=py&perline=3)
+![React](https://skillicons.dev/icons?i=react&perline=3)
+![Redux](https://skillicons.dev/icons?i=redux&perline=3)
+![spring](https://skillicons.dev/icons?i=spring&perline=3)
+![vite](https://skillicons.dev/icons?i=vite&perline=3)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulDelfino&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ---
