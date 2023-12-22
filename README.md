@@ -7,16 +7,16 @@ Olá, meu nome é Raul, Tenho 20 anos, e esse é meu GitHub aonde vou compartilh
 
 
 ### Habilidades
-![Flutter](https://skillicons.dev/icons?i=flutter&perline=3)
+![spring](https://skillicons.dev/icons?i=spring&perline=3)
 ![java](https://skillicons.dev/icons?i=java&perline=3)
 ![JavaScript](https://skillicons.dev/icons?i=js&perline=3)
-![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)
+![React](https://skillicons.dev/icons?i=react&perline=3)
 ![mysql](https://skillicons.dev/icons?i=mysql&perline=3)
 ![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)
 ![python](https://skillicons.dev/icons?i=py&perline=3)
-![React](https://skillicons.dev/icons?i=react&perline=3)
+![Flutter](https://skillicons.dev/icons?i=flutter&perline=3)
+![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)
 ![Redux](https://skillicons.dev/icons?i=redux&perline=3)
-![spring](https://skillicons.dev/icons?i=spring&perline=3)
 ![vite](https://skillicons.dev/icons?i=vite&perline=3)
 
 ### GitHub Stats
