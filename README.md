@@ -1,5 +1,5 @@
 # Raul Delfino
-Breve descrição sobre você.
+Olá, meu nome é Raul, Tenho 20 anos, e esse é meu GitHub aonde vou compartilhar minha evolução no aprendizado de Tecnoligias que aprendo tanto em minha faculdade de Ciências da Computação, quanto em cursos da internet e projetos pessoais. Espero que goste de acompanhar meu crescimento em programação!
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rauldossantoss@gmail.com)
